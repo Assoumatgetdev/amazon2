@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "ShowAds":false,
+    "ShowAds":true,
     "ShowDropAds":false,
     "ShowCpaAds":false,
     "AdmobClick":2,
@@ -13,16 +13,16 @@
     "AdmobBanner":"xxxxxxxxxxx",
     "AdmobNative":"xxxxxxxxxxx",
     "AdmobReward":"xxxxxxxxxxx",
-    "MintegralAppID":"144002",
-    "MintegralAppKey":"7c22942b749fe6a6e361b675e96b3ee9",
+    "MintegralAppID":"460707",
+    "MintegralAppKey":"58ff183361b401b851b26e5bdb86a753",
     "MintegralNativeUnitID":"xxxxxxx",
     "MintegralNativePlacementID":"xxxxxxx",
-    "MintegralInterstitialUnitID":"xxxxxxx",
-    "MintegralInterstitialPlacementID":"xxxxxxx",
+    "MintegralInterstitialUnitID":"5831379",
+    "MintegralInterstitialPlacementID":"3494638",
     "MintegralBannerUnitID":"xxxxxxx",
     "MintegralBannerPlacementID":"xxxxxxx",
-    "MintegralRewardUnitID":"xxxxxxx",
-    "MintegralRewardPlacementID":"xxxxxxx"
+    "MintegralRewardUnitID":"5831338",
+    "MintegralRewardPlacementID":"3494597"
     },
   "AppControl":{
     "OnesignalID":"0128ec07-6774-4d4f-ac16-dbc721d011da",
